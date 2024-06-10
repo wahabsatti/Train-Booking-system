@@ -1,0 +1,66 @@
+ 
+ 
+ 
+		*** Train Ticket ***
+ 
+				Ticket Number : 0
+ 
+				Selected Train :
+ 
+				Departure :
+ 
+				Destination : 
+ 
+				Name : 
+ 
+				Date of Birth :   
+				CNIC : 
+ 
+				Phone Number : 
+ 
+				Class Type : 
+ 
+ 
+ 
+ 
+		*** Train Ticket ***
+ 
+				Ticket Number : 1
+ 
+				Selected Train :blue line (departure time = 5:30 AM)
+ 
+				Departure :Lahore
+ 
+				Destination : Karachi
+ 
+				Name : Abdul wahab
+ 
+				Date of Birth :  00-00-0000 
+				CNIC : 00000-0000000-0
+ 
+				Phone Number : 0000-0000000
+ 
+				Class Type : Business class
+ 
+ 
+ 
+ 
+		*** Train Ticket ***
+ 
+				Ticket Number : 2
+ 
+				Selected Train :red line (departure time = 2:30 PM)
+ 
+				Departure :Rawalpindi
+ 
+				Destination : Karachi
+ 
+				Name : Maliha baig
+ 
+				Date of Birth :  00-04-0005 
+				CNIC : 00001-0000001-2
+ 
+				Phone Number : 0000-0000001
+ 
+				Class Type :  Executive class
+ 

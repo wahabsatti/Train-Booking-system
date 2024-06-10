@@ -1,0 +1,54 @@
+0
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+1
+yellow line (departure time = 6:30 PM)
+Karachi
+Rawalpindi
+wahab
+00-00-0000
+00000-0000000-0
+0000-0000000
+Business class
+2
+red line (departure time = 2:30 PM)
+Lahore
+Karachi
+ghfjuhy
+00-00-0000
+37403-1774747-5
+0000-0000000
+ Executive class
+2
+red line (departure time = 2:30 PM)
+Rawalpindi
+Karachi
+Maliha baig
+00-04-0005
+00001-0000001-2
+0000-0000001
+ Executive class
